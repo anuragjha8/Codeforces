@@ -2294,6 +2294,26 @@
     ],
     "timestamp": "Jan/21/2021 21:46"
   },
+  "CF99960783": {
+    "contest_id": 1257,
+    "language": "GNU C++14",
+    "path": "codeforces\\1257\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dominated Subarray",
+    "problem_url": "https://codeforces.com/contest/1257/problem/C",
+    "submission_id": "CF99960783",
+    "submission_url": "https://codeforces.com/contest/1257/submission/99960783",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Nov/30/2020 12:51"
+  },
   "CF99961592": {
     "contest_id": 385,
     "language": "GNU C++14",
