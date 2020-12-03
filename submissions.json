@@ -1,4 +1,21 @@
 {
+  "CF100284707": {
+    "contest_id": 272,
+    "language": "GNU C++14",
+    "path": "codeforces\\272\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dima and Friends",
+    "problem_url": "https://codeforces.com/contest/272/problem/A",
+    "submission_id": "CF100284707",
+    "submission_url": "https://codeforces.com/contest/272/submission/100284707",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/03/2020 20:44"
+  },
   "CF100321273": {
     "contest_id": 1203,
     "language": "GNU C++14",
