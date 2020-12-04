@@ -1,4 +1,22 @@
 {
+  "CF100327805": {
+    "contest_id": 1029,
+    "language": "GNU C++14",
+    "path": "codeforces\\1029\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Creating the Contest",
+    "problem_url": "https://codeforces.com/contest/1029/problem/B",
+    "submission_id": "CF100327805",
+    "submission_url": "https://codeforces.com/contest/1029/submission/100327805",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Dec/04/2020 12:52"
+  },
   "CF100328269": {
     "contest_id": 456,
     "language": "GNU C++14",
