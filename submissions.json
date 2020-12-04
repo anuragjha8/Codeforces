@@ -1,4 +1,21 @@
 {
+  "CF100321273": {
+    "contest_id": 1203,
+    "language": "GNU C++14",
+    "path": "codeforces\\1203\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Equal Rectangles",
+    "problem_url": "https://codeforces.com/contest/1203/problem/B",
+    "submission_id": "CF100321273",
+    "submission_url": "https://codeforces.com/contest/1203/submission/100321273",
+    "tags": [
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Dec/04/2020 11:29"
+  },
   "CF100323229": {
     "contest_id": 1428,
     "language": "GNU C++14",
