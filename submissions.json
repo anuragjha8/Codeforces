@@ -1,4 +1,25 @@
 {
+  "CF100465930": {
+    "contest_id": 1312,
+    "language": "GNU C++14",
+    "path": "codeforces\\1312\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Adding Powers",
+    "problem_url": "https://codeforces.com/contest/1312/problem/C",
+    "submission_id": "CF100465930",
+    "submission_url": "https://codeforces.com/contest/1312/submission/100465930",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "ternary search",
+      "*1400"
+    ],
+    "timestamp": "Dec/05/2020 21:19"
+  },
   "CF100467005": {
     "contest_id": 1223,
     "language": "GNU C++14",
