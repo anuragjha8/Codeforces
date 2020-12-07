@@ -1,4 +1,21 @@
 {
+  "CF100627802": {
+    "contest_id": 439,
+    "language": "GNU C++14",
+    "path": "codeforces\\439\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Devu, the Dumb Guy",
+    "problem_url": "https://codeforces.com/contest/439/problem/B",
+    "submission_id": "CF100627802",
+    "submission_url": "https://codeforces.com/contest/439/submission/100627802",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Dec/07/2020 18:16"
+  },
   "CF100630240": {
     "contest_id": 977,
     "language": "GNU C++14",
