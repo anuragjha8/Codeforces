@@ -1,4 +1,21 @@
 {
+  "CF100740866": {
+    "contest_id": 913,
+    "language": "GNU C++14",
+    "path": "codeforces\\913\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Christmas Spruce",
+    "problem_url": "https://codeforces.com/contest/913/problem/B",
+    "submission_id": "CF100740866",
+    "submission_url": "https://codeforces.com/contest/913/submission/100740866",
+    "tags": [
+      "implementation",
+      "trees",
+      "*1200"
+    ],
+    "timestamp": "Dec/09/2020 12:12"
+  },
   "CF100807388": {
     "contest_id": 1200,
     "language": "GNU C++14",
