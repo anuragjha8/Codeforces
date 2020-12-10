@@ -1,4 +1,21 @@
 {
+  "CF100831586": {
+    "contest_id": 1133,
+    "language": "GNU C++14",
+    "path": "codeforces\\1133\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Balanced Team",
+    "problem_url": "https://codeforces.com/contest/1133/problem/C",
+    "submission_id": "CF100831586",
+    "submission_url": "https://codeforces.com/contest/1133/submission/100831586",
+    "tags": [
+      "sortings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Dec/10/2020 17:40"
+  },
   "CF100832683": {
     "contest_id": 330,
     "language": "GNU C++14",
