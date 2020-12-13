@@ -1,4 +1,20 @@
 {
+  "AC18761850": {
+    "contest_id": "abc185",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc185\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Range Xor Query",
+    "problem_url": "https://atcoder.jp/contests/abc185/tasks/abc185_f",
+    "submission_id": "AC18761850",
+    "submission_url": "https://atcoder.jp/contests/abc185/submissions/18761850",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Dec/13/2020 19:07"
+  },
   "AC19321573": {
     "contest_id": "abc188",
     "language": "C++ (GCC 9.2.1)",
