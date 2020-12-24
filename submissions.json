@@ -1,4 +1,20 @@
 {
+  "CF102254027": {
+    "contest_id": 1380,
+    "language": "GNU C++14",
+    "path": "codeforces\\1380\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Universal Solution",
+    "problem_url": "https://codeforces.com/contest/1380/problem/B",
+    "submission_id": "CF102254027",
+    "submission_url": "https://codeforces.com/contest/1380/submission/102254027",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Dec/24/2020 22:47"
+  },
   "CF102302535": {
     "contest_id": 1468,
     "language": "GNU C++17",
