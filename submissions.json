@@ -1,4 +1,20 @@
 {
+  "CF102924841": {
+    "contest_id": 1174,
+    "language": "GNU C++14",
+    "path": "codeforces\\1174\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ehab Is an Odd Person",
+    "problem_url": "https://codeforces.com/contest/1174/problem/B",
+    "submission_id": "CF102924841",
+    "submission_url": "https://codeforces.com/contest/1174/submission/102924841",
+    "tags": [
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Dec/31/2020 21:40"
+  },
   "CF103040620": {
     "contest_id": 962,
     "language": "GNU C++14",
