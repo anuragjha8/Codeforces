@@ -1,4 +1,20 @@
 {
+  "CF103623807": {
+    "contest_id": 1157,
+    "language": "GNU C++14",
+    "path": "codeforces\\1157\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Long Number",
+    "problem_url": "https://codeforces.com/contest/1157/problem/B",
+    "submission_id": "CF103623807",
+    "submission_url": "https://codeforces.com/contest/1157/submission/103623807",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Jan/07/2021 16:31"
+  },
   "CF103626763": {
     "contest_id": 1428,
     "language": "GNU C++14",
