@@ -1,4 +1,20 @@
 {
+  "CF104564105": {
+    "contest_id": 782,
+    "language": "GNU C++14",
+    "path": "codeforces\\782\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Andryusha and Socks",
+    "problem_url": "https://codeforces.com/contest/782/problem/A",
+    "submission_id": "CF104564105",
+    "submission_url": "https://codeforces.com/contest/782/submission/104564105",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/17/2021 13:11"
+  },
   "CF104564510": {
     "contest_id": 22,
     "language": "GNU C++14",
